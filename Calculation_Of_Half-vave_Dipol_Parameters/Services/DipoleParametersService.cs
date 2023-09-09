@@ -3,6 +3,9 @@ using System.Numerics;
 
 namespace Calculation_Of_Half_vave_Dipol_Parameters.Services
 {
+	/// <summary>
+	/// Serwis do MVP
+	/// </summary>
 	public class DipoleParametersService
 	{
 		public double CountWaveLength(double frequency)
