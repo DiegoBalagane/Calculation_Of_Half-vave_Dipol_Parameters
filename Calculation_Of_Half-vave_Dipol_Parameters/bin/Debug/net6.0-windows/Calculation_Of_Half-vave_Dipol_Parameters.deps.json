@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculation_Of_Half-vave_Dipol_Parameters/1.0.0": {
+        "runtime": {
+          "Calculation_Of_Half-vave_Dipol_Parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculation_Of_Half-vave_Dipol_Parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
